@@ -7,7 +7,7 @@ function investimento(valorUnitarioInicialDoInvestimento, montante, numeroDeApor
 
         Se a escala for 2 e primeiro aporte for 1 então o segundo a porte será 2 e o terceiro 4 e assim por diante
 
-        0 <= desvalização <= 1 , 1 representa que desvalorizou 100%, ou seja, a empresa faliu, exemplo:
+        0 <= desvalização <= 1 , 0 representa que desvalorizou 100%, ou seja, a empresa faliu, exemplo:
             se a desvalorição por aporte foi de 5% então o valor é 0.95
             se a desvalorição por aporte foi de 30% então o valor é 0.7
 
